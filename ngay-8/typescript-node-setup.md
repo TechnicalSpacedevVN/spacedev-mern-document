@@ -83,7 +83,7 @@ Sau khi xóa các đoạn code không cần thiết, file `tsconfig.json` của 
 mkdir src
 touch src/index.ts
 ```
-Và viết một vài đoạn code vào nó:
+Và viết một vài đoạn code vào file `index.ts`:
 
 ```typescript
 type User = {
